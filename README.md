@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a basic exploratory Git project created by SENAI tutor **Marcelo de Carvalho Santana** to teach version control concepts. The project demonstrates fundamental Git concepts, including local version control and GitHub repository management.
+This is a basic exploratory Git project created by SENAI tutor **Marcelo de Carvalho Santana** (myself) to teach version control concepts. The project demonstrates fundamental Git concepts, including local version control and GitHub repository management.
 
 ### Purpose
 
